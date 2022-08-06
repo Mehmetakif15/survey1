@@ -1,0 +1,36 @@
+.baslık{
+    font-size: 70px;
+    font-weight: 549;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+p{
+    font-size: 20px;
+}
+.name{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+.surname{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+.email{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+#name{
+    margin-top: 15px;
+}
+#surname{
+    margin-top: 15px;
+}
+#email{
+    margin-top: 15px;
+}
+.role{
+    margin-top: -15px;
+}
